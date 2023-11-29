@@ -39,7 +39,7 @@ html {
 .dashboard {
   padding: 0px 0px 30px;
   /* background: linear-gradient(140deg, #ddccc8 0%, #dfa0cb 50%, #bfb2cc 75%); */
-  background: top center / cover no-repeat url("/assets/img/404790126_1569063666831077_3303020781901398860_n.jpg");
+  /* background: top center / cover no-repeat url("/assets/img/404790126_1569063666831077_3303020781901398860_n.jpg"); */
   position: fixed;
   top: 0;
   width: 100%;
